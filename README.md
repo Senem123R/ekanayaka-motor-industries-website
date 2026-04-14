@@ -21,14 +21,6 @@ The platform serves vehicle owners, garages, and workshops by providing a search
 
 ## 🖼️ Screenshots
 
-### Desktop View
-![Desktop Home](assets/screenshots/desktop-home.png)
-
-### Mobile View
-![Mobile Navigation](assets/screenshots/mobile-nav.png)
-
-### Product Detail Modal
-![Product Modal](assets/screenshots/product-modal.png)
 
 ---
 
